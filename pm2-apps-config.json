@@ -1,0 +1,14 @@
+{
+  "apps": [
+    {
+      "name": "strapi-app-server",
+      "cwd": "D:\\GitHub\\mystock-server",
+      "script": "app.js",
+      "watch": false,
+      "ignore_watch": ["node_modules"],
+      "env": {
+        "STRAPI_PORT": 1337
+      }
+    }
+  ]
+}
